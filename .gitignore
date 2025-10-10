@@ -2,8 +2,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=jetbrains+all,visualstudiocode,astro
 ### IDS ###
 .txt
+.json
+.csv
 ### Dossiers ###
 .sorted_categories/
+.sorted_Scrap/
+.test/
 ### Astro ###
 # Gitignore template for Astro projects
 # Ignore content collection generated files
